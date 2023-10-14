@@ -1,3 +1,3 @@
 # DevFolio
 bootstrap template
-link : https://mclarwnce.github.io/DevFolio/
+link : https://hamza-alarja.github.io/DevFolio/
